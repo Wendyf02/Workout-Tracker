@@ -33,4 +33,16 @@ router.get("/api/workouts", (req, res) => {
       .catch(err => {
         res.status(400).json(err);
       });
+});
+
+router.get("/api/workouts", (req, res) => {
+    Workout.find({})
+      .limit(10)
+      .then(dbWorkout => {
+        res.json(dbWorkout);
+      })
+      .catch(err => {
+        res.status(400).json(err);
+      });
   });
+
