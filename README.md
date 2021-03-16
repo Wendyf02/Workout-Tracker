@@ -9,15 +9,14 @@
   * [Questions](#questions)
   
   ## Description
-  This app will track your workout with Workout Tracker.The app will keep track of every exercise in your workout.This    app dashboard will display weekly sumarry graphs. For this assignment,you have already been provided with the front end code in the Develop folder.  
+  This app will track your workout .The app will keep track of every exercise in your workout.This app dashboard will display weekly sumarry graphs. For this assignment,you have already been provided with the front end code in the Develop folder.       
 
 
   ## Installation
-  This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
-  Also install all necessary dependancies- npm install/npm express
+  This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express and install all necessary dependancies- npm install/npm express.    
 
   ## Usage
-  As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+  As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.    
 
   ## Lincense
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -26,11 +25,17 @@
   n/a
 
   ## Test
-   Open in localhost:3001 and aldo run node seed.js
+   Open in localhost:3001 and also run node seed.js and final deplay to heroku.        
   
   ## Questions
 
   Contact me:   
-  Github: https://github.com/wendyf02   
-  Email: cammomila444@gmail.com
+  Github: https://github.com/wendyf02       
+  Email: cammomila444@gmail.com          
   Heroku Deploy: https://radiant-woodland-76726.herokuapp.com/   
+
+  ![GitHub](public/images/workout1.png)  
+
+  ![GitHub](public/images/workout2.png)   
+
+  ![GitHub](public/images/workout3.png)  
